@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\bin\Release\Application Calculatrice.exe.config
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\bin\Release\Application Calculatrice.exe
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\bin\Release\Application Calculatrice.pdb
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Release\Application Calculatrice.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Release\Application_Calculatrice.Form1.resources
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Release\Application_Calculatrice.Properties.Resources.resources
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Release\Application Calculatrice.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Release\Application Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Release\Application Calculatrice.exe
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Release\Application Calculatrice.pdb

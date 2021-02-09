@@ -1,0 +1,20 @@
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\bin\Debug\Application Calculatrice.exe.config
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\bin\Debug\Application Calculatrice.exe
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\bin\Debug\Application Calculatrice.pdb
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\obj\Debug\Application_Calculatrice.Form1.resources
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\obj\Debug\Application_Calculatrice.Properties.Resources.resources
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.exe
+C:\Users\Admin\Documents\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.pdb
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\bin\Debug\Application Calculatrice.exe.config
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\bin\Debug\Application Calculatrice.exe
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\bin\Debug\Application Calculatrice.pdb
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Debug\Application_Calculatrice.Form1.resources
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Debug\Application_Calculatrice.Properties.Resources.resources
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.exe
+C:\Users\Admin\Downloads\Application Calculatrice\Application Calculatrice\obj\Debug\Application Calculatrice.pdb
